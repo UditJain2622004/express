@@ -2,6 +2,7 @@
 
 var after = require("after");
 var after = require("after");
+var after = require("after");
 var express = require("../"),
   request = require("supertest");
 
